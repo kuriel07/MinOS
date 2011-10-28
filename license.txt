@@ -1,0 +1,47 @@
+MinOS : Minos Realtime Operating System
+Version : 0.1 (minor version)
+Copyright (C) 2011 Agus Purwanto
+http://www.my.opera.com/kuriel
+
+This document copyright (c) 2011 Agus Purwanto.  License is granted to 
+reproduce, copy, post, or distribute in any manner, provided this document 
+is kept intact and no modifications, deletions, or additions are made.
+
+WHAT IS IT?
+
+Minos (MIght Not an Operating System, named after the king of crete in greek
+mythology) is a realtime operating system design with portability in
+mind, user can even switch whether to use cooperative scheduling or 
+preemptive scheduling. Because minos was designed with portability in 
+mind, it can be ported to several machine. This software is the 
+exclusive property of the authors and is covered by this license 
+agreement.
+
+WHAT YOU CAN (AND CANNOT) DO WITH THE MinOS
+
+The license at the end of this note gives legal terms and conditions.
+Here's the layman's interpretation, for information only and with no
+legal weight:
+
+     1.   You can use the MinOS in personal, non-commercial
+          applications. You can't use the MinOS in any 
+          commercial (moneymaking) manner of any type, nor can
+          you use it to provide services of any kind to any other
+          party.
+
+     2.   You can modify MinOS as required to port it to other
+          operating systems and compilers.
+
+     3.   You can give others MinOS and programs that
+          interface to MinOS, under the same terms and
+          conditions as your MinOS license.
+
+     4.   The software is provided on a take-it-or-leave-it, as-is basis
+          and the authors assume no responsibility if you choose to
+          use it.
+
+
+OTHER QUESTIONS
+
+If you have questions regarding MinOS send email to <agushimuso@gmail.com>
+this file downloaded from http://www.my.opera.com/kuriel
